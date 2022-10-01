@@ -3,7 +3,7 @@
 - 💻 Analista Suporte técnico
 - 🌱 Estudando programação
 
-![Charlie-Harpe' github stats](https://github-readme-stats.vercel.app/api?username=Charlie-Harpe)
+![Charlie-Domingos' github stats](https://github-readme-stats.vercel.app/api?username=Charlie-Domingos)
 
 <div style="display: inline_block"><br>
 <h2>Hard Skills</h2>
