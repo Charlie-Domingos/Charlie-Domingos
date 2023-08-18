@@ -1,9 +1,10 @@
 ###  Sou o Charlie Augusto👋
 
+📚 Minha jornada na programação inclui o aprendizado e a prática dedicada de HTML, CSS e JavaScript, pilares fundamentais para a construção de interfaces web. Além disso, estou imerso na empolgante jornada de explorar o Angular, uma poderosa estrutura que permite criar aplicativos web dinâmicos e escaláveis.
+
+
 - 💻 Analista Suporte técnico
 - 🌱 Estudando programação
-
-![Charlie-Domingos' github stats](https://github-readme-stats.vercel.app/api?username=Charlie-Domingos)
 
 <div style="display: inline_block"><br>
 <h2>⚡ Technologias</h2>
@@ -18,6 +19,10 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-flat-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-the-badge&logo=gnu-bash&logoColor=white)
+
+  
+![Charlie-Domingos' github stats](https://github-readme-stats.vercel.app/api?username=Charlie-Domingos)
+
  
 
   
