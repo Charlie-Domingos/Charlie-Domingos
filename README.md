@@ -1,4 +1,4 @@
-###  Sou o Charlie Augusto👋
+###  Sou o Charlie Domingos👋
 
 📚 Minha jornada na programação inclui o aprendizado e a prática dedicada de HTML, CSS e JavaScript, pilares fundamentais para a construção de interfaces web. Além disso, estou imerso na empolgante jornada de explorar o Angular, uma poderosa estrutura que permite criar aplicativos web dinâmicos e escaláveis.
 
